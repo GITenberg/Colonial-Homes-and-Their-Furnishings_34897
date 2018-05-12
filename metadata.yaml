@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '36664'
     url: http://www.gutenberg.org/2009/agents/36664
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34897#Colonial-Homes-and-Their-Furnishings
 gutenberg_issued: '2011-01-09'
 gutenberg_type: Text
 identifiers:
